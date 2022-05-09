@@ -1,0 +1,9 @@
+#example-title {
+    color: orange;
+}
+
+#example-cont {
+    border: solid 1px gray; 
+    background-color: gray; 
+    margin: 10px 0;
+}
